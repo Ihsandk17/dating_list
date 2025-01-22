@@ -1,16 +1,6 @@
 # dating_list
 
-A new Flutter project.
+here is the link of the list taks video: 
+https://youtube.com/shorts/Ufiqovlmu4Q?si=NDy7YbyoxdvJw5MW
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+here is the apk link: https://drive.google.com/file/d/1sBxB7MOVDaIzvis_JLfolBX_RUz1wvs_/view?usp=sharing
